@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Запуск Go",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/main.go",  
+            "args": ["-tg-bot-token", "7569583135:AAFK7waMQ1FIkbonubx0vUzZ3rVkl3VYO34"],  
+            "env": {},
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        }
+    ]
+}
